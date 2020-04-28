@@ -1,0 +1,3 @@
+﻿  CIS023_S2020_Lab17b.cpp
+D:\Desktop\CIS 022 HW\CIS023_S2020_Lab17b Miguel Antonio Logarta\CIS023_S2020_Lab17b\CIS023_S2020_Lab17b.cpp(157,44): warning C4302: 'type cast': truncation from 'HWND' to 'WORD'
+  CIS023_S2020_Lab17b.vcxproj -> D:\Desktop\CIS 022 HW\CIS023_S2020_Lab17b Miguel Antonio Logarta\Debug\CIS023_S2020_Lab17b.exe
